@@ -100,7 +100,7 @@ template {
 }
 
 a {
-    background-color: transparent;
+    background-color: opacity;
 }
 
 a:active,
@@ -455,7 +455,7 @@ html {
 }
 
 body {
-    background-color: #f5f5f5;
+    background-color: #2;
 }
 
 hr {
